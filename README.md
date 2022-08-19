@@ -9,6 +9,6 @@ The research questions answered by performing analysis on the hotel sales data a
 3. Other trends in the data with special focus on average daily rate of hotel and guests to explore seasonality.
 
 
-** Dashboard Screenshot **
+**Dashboard Screenshot**
 
 ![image](https://user-images.githubusercontent.com/74657588/185527398-e7f8bb48-fa51-45d6-bfed-34cee49d0ffe.png)
